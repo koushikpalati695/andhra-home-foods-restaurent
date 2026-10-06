@@ -1,0 +1,6 @@
+{
+  "name": "Andhra Home Foods",
+  "description": "Authentic Andhra Taste, Just Like Home. Experience the rich flavors of Andhra cuisine with traditional recipes, fresh ingredients, and homestyle cooking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
